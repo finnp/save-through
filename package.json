@@ -1,0 +1,26 @@
+{
+  "name": "save-through",
+  "version": "1.0.0",
+  "description": "PassThrough stream that saves the piped data to disk",
+  "main": "index.js",
+  "bin": {
+    "save-through": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/save-through.git"
+  },
+  "keywords": [
+    "save",
+    "disk"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/save-through/issues"
+  },
+  "homepage": "https://github.com/finnp/save-through"
+}
